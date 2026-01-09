@@ -2,7 +2,7 @@
 title: Internships for Undergrads
 ---
 
-Here is a list of primarily physics internships (but there are some other disciplines) in a range of locations, generally aimed for undergraduate students seeking research experience.
+Here is a list of primarily physics internships (but there are some other disciplines) in a range of locations, generally aimed at undergraduate students seeking research experience.
 
 <h3><a href="https://leaps.strw.leidenuniv.nl/">The Leiden/ESA Astrophysics Program for Summer Students (LEAPS)</a></h3>
 <p>Summary: 10 week research project at Leiden Observatory or ESA/ESTEC. Students are provided with travel costs, housing accommodations, a stipend to help with living costs and health insurance. </p>
@@ -82,3 +82,40 @@ Here is a list of primarily physics internships (but there are some other discip
 <h3><a href="https://www.maths.cam.ac.uk/internships/eligibility">Philippa Fawcett Internship Programme</a></h3>
 <p>Summary: A funded summer research programme for women, trans women and non-binary students in mathematics, based at the University of Cambridge. The internship runs for 8 weeks between July and September. Interns are paid the National Living Wage, plus holiday pay. Accommodation is provided at one of the Cambridge colleges, but the cost is not covered by the programme.</p>
 
+<h3><a href="https://www.physics.ox.ac.uk/research/summer-internships-undergraduates">Oxford Summer Research Program</a></h3>
+<p>Summary: The selected students will work with a supervisor in the department, usually a postdoctoral researcher or lecturer, on a self-contained research project typically lasting 8 weeks. These are run by the research groups in astrophysics; atomic and laser physics and atmospheric, oceanic and planetary physics. For astrophysics projects the programme will also include lectures/seminars on current astrophysics topics, and on academic careers in astro. Students will be encouraged to take part in department life, joining researchers for coffee, discussions and seminars, and are paid as employees of the university. </p>
+
+<h3><a href="https://www.ox.ac.uk/admissions/graduate/access/uniq-plus?source=access">UNIQ+ Projects</a></h3>
+<p>Summary: A seven-week research programme for undergraduates from under-represented groups, who would find continuing into postgraduate study a challenge for reasons other than their academic ability. Project topics cover medical sciences; mathematical, physical and life sciences; humanities or social sciences. </p>
+
+<h3><a href="https://www.qub.ac.uk/research-centres/astrophysics-research-centre/EducationandOpportunities/Internships/">University of Belfast Summer Studentships</a></h3>
+<p>Summary: Paid summer internship positions to work on research projects in topics such as solar system, the sun and exoplanets. The studentships are expected to be 8 weeks.</p>
+
+<h3><a href="https://careers.ukaea.uk/early-careers/placements-and-work-experience/">UK Atomic Energy Authority Placements</a></h3>
+<p>Summary: Offer both summer and industrial placements to give students chance to experience the fusion industry.</p>
+
+
+<h3><a href="https://www.herts.ac.uk/research/centres/car/ug-research-programme">University of Hertfordshire Undergraduate Research Programme</a></h3>
+<p>Summary: Projects designed to give undergraduates a feel for what research is like. They are in the Department of Physics, Astronomy and Mathematics and include topics such as climate modelling, astrophysics and programming. Some limited funding may be available.</p>
+
+<h3><a href="https://stfccareers.co.uk/students/">Science and Technology Facilities Council Placements</a></h3>
+<p>Summary: Offer summer and industrial placements in engineering, computing, science and technology, business support, finance and microelectronics.</p>
+
+<h3><a href="https://in2scienceuk.org/our-programmes/in2research/">Science and Technology Facilities Council Placements</a></h3>
+<p>Summary: 8 week research placement designed to enhance access to postgraduate research degrees and career opportunities for people from low socioeconomic backgrounds and under-represented groups. Includes online workshops, mentorship and away days. Students will be supported by a stipend.</p>
+
+<h3><a href="https://prosperofellowship.org/">Prospero Space Fellowships</a></h3>
+<p>Summary: 3-8+ week summer internships, aimed for students interested in the space industry. Students are matched with a partner organisation.</p>
+
+<h3><a href="https://sa.catapult.org.uk/spin/">Space Placements in INdustry (SPIN)</a></h3>
+<p>Summary: Space Placements in Industry offers short term research placements and is managed by the UK Space Agency. The internships are typically 8 weeks long, and are paid. Includes an induction event at the start and a poster and showcase event at the end.</p>
+
+
+<h3><a href="https://www.aei.mpg.de/43630/student-internships-in-gravitational-wave-searches-and-observations">Student Internships at the Albert Einstein Institute</a></h3>
+<p>Summary: Summer internships in the “Observational Relativity and Cosmology” department at the Max Planck institute. Research topics include gravitational wave astronomy using laser interferometers and pulsar timing arrays. </p>
+
+<h3><a href="https://aspire.science.uva.nl/">Astrophysics Summer Program for International Research Experience (ASPIRE)</a></h3>
+<p>Summary: An 8 week astronomical research programme at the University of Amsterdam. Topics include exoplanets, extreme astrophysics and black holes. There is also a weekly series of lectures covering topics such as programming and research skills. Travel, lodging, subsistence and visas are funded.</p>
+
+<h3><a href="https://www.imperial.ac.uk/urop/">Undergraduate Research Opportunities Programme</a></h3>
+<p>Summary: A research internship offered by Imperial College London. Applications are done by reaching out to participating members of staff regarding possible projects. Topics include bioengineering, mathematics, earth sciences, chemistry, physics and more. Bursaries can be provided.</p>

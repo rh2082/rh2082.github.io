@@ -1,1 +1,3 @@
+---
 title: PhD Application Resources
+---

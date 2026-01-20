@@ -12,7 +12,7 @@ Here is a list of places you can learn more about solar physics!
 
 <a href="https://www.aurorasaurus.org/">aurorasaurus</a> is a citizen science site, where you can report aurora sitings. They also have a blog and some resources to learn about the aurora. 
 
-<a href="https://theheliohouse.com/">The Heliohouse is a heliophysics resource run by Dr C Waterfall. The helpful mascot Ray helps you learn about heliophysics, and there are interactive games to learn more about the Sun.
+<a href="https://theheliohouse.com/">The Heliohouse</a> is a heliophysics resource run by Dr C Waterfall. The helpful mascot Ray helps you learn about heliophysics, and there are interactive games to learn more about the Sun.
 
 <h3>Books</h3>
 _15 Million Degrees: A Journey to the Centre of the Sun_ by Prof. Lucie Green.

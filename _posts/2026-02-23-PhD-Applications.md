@@ -121,7 +121,8 @@ Definitely don’t downplay your achievements – you’ve got here because you 
 
 
 The questions will then transition at some point into more general questions. Things like why you want to do a PhD, why you're interested in the topic... 
-I watched <a https://youtu.be/gxjFeKocLX4?si=Re4JDEMCFe6dYeys><href>this YouTube video ahead</a> of my interview, and I highly, highly recommend it.
+I watched <a href="https://youtu.be/gxjFeKocLX4?si=u8gDAE-9OCAszlMb">this YouTube video</a> ahead of my interview, and I highly, highly recommend it.
+
 
 <h3>Conclusion</h3>
 I think that is everything I have to say about PhD applications. I wish you all the best with yours!

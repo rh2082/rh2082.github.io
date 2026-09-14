@@ -1,6 +1,7 @@
 ---
 title: Internships for Undergrads
 ---
+Last checked: 14/09/26
 
 Here is a list of primarily physics internships (but there are some other disciplines) in a range of locations, generally aimed at undergraduate students seeking research experience.
 
@@ -95,24 +96,24 @@ Here is a list of primarily physics internships (but there are some other discip
 <p>Offer both summer and industrial placements to give students chance to experience the fusion industry.</p>
 
 
-<h3><a href="https://www.herts.ac.uk/research/centres/car/ug-research-programme">University of Hertfordshire Undergraduate Research Programme</a></h3>
-<p>Projects designed to give undergraduates a feel for what research is like. They are in the Department of Physics, Astronomy and Mathematics and include topics such as climate modelling, astrophysics and programming. Some limited funding may be available.</p>
+<!-- <h3><a href="https://www.herts.ac.uk/research/centres/car/ug-research-programme">University of Hertfordshire Undergraduate Research Programme</a></h3>
+<p>Projects designed to give undergraduates a feel for what research is like. They are in the Department of Physics, Astronomy and Mathematics and include topics such as climate modelling, astrophysics and programming. Some limited funding may be available.</p> -->
 
 <h3><a href="https://stfccareers.co.uk/students/">Science and Technology Facilities Council Placements</a></h3>
 <p>Offer summer and industrial placements in engineering, computing, science and technology, business support, finance and microelectronics.</p>
 
-<h3><a href="https://in2scienceuk.org/our-programmes/in2research/">Science and Technology Facilities Council Placements</a></h3>
+<h3><a href="https://in2scienceuk.org/our-programmes/in2research/">In2Research Placements</a></h3>
 <p>8 week research placement designed to enhance access to postgraduate research degrees and career opportunities for people from low socioeconomic backgrounds and under-represented groups. Includes online workshops, mentorship and away days. Students will be supported by a stipend.</p>
 
-<h3><a href="https://prosperofellowship.org/">Prospero Space Fellowships</a></h3>
-<p>3-8+ week summer internships, aimed for students interested in the space industry. Students are matched with a partner organisation.</p>
+<!-- <h3><a href="https://prosperofellowship.org/">Prospero Space Fellowships</a></h3>
+<p>3-8+ week summer internships, aimed for students interested in the space industry. Students are matched with a partner organisation.</p> -->
 
 <h3><a href="https://sa.catapult.org.uk/spin/">Space Placements in INdustry (SPIN)</a></h3>
 <p>Space Placements in Industry offers short term research placements and is managed by the UK Space Agency. The internships are typically 8 weeks long, and are paid. Includes an induction event at the start and a poster and showcase event at the end.</p>
 
 
-<h3><a href="https://www.aei.mpg.de/43630/student-internships-in-gravitational-wave-searches-and-observations">Student Internships at the Albert Einstein Institute</a></h3>
-<p>Summer internships in the “Observational Relativity and Cosmology” department at the Max Planck institute. Research topics include gravitational wave astronomy using laser interferometers and pulsar timing arrays. </p>
+<!-- <h3><a href="https://www.aei.mpg.de/43630/student-internships-in-gravitational-wave-searches-and-observations">Student Internships at the Albert Einstein Institute</a></h3>
+<p>Summer internships in the “Observational Relativity and Cosmology” department at the Max Planck institute. Research topics include gravitational wave astronomy using laser interferometers and pulsar timing arrays. </p> -->
 
 <h3><a href="https://aspire.science.uva.nl/">Astrophysics Summer Program for International Research Experience (ASPIRE)</a></h3>
 <p>An 8 week astronomical research programme at the University of Amsterdam. Topics include exoplanets, extreme astrophysics and black holes. There is also a weekly series of lectures covering topics such as programming and research skills. Travel, lodging, subsistence and visas are funded.</p>

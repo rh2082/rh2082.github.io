@@ -17,6 +17,7 @@ Here is a list of places you can learn more about solar physics!
 The <a href= "https://uksolphys.org/">UK Solar Physics community</a> is a specialist scientific group affiliated with the Royal Astronomical Society, and this website serves as a repository of information for the UKSP community, with community news, information about national and international conferences, employment and study opportunities, solar missions, and computing resources.
 
 <h3>Books</h3>
+
 _15 Million Degrees: A Journey to the Centre of the Sun_ by Prof. Lucie Green.
 
 _Rebel Star_ by Colin Stuart.
